@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Qoder on EchoPing&#39;s Blog</title>
+    <link>https://echoping07.github.io/tags/qoder/</link>
+    <description>Recent content in Qoder on EchoPing&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 22 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://echoping07.github.io/tags/qoder/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Qoder-2API-Go：把 Qoder 的 AI 服务桥接成 OpenAI 兼容 API</title>
+      <link>https://echoping07.github.io/projects/qoder-2api-go/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://echoping07.github.io/projects/qoder-2api-go/</guid>
+      <description>Qoder2API 的 Go 实现，将 Qoder 的 AI 服务完整重写为 OpenAI 兼容 API，单文件部署、支持流式输出与多模态。</description>
+    </item>
+  </channel>
+</rss>

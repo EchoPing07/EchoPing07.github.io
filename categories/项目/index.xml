@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>项目 on EchoPing&#39;s Blog</title>
+    <link>https://echoping07.github.io/categories/%E9%A1%B9%E7%9B%AE/</link>
+    <description>Recent content in 项目 on EchoPing&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 19 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://echoping07.github.io/categories/%E9%A1%B9%E7%9B%AE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Buddy-2API-Go：把 CodeBuddy 的 AI 服务桥接成 OpenAI 兼容 API</title>
+      <link>https://echoping07.github.io/projects/buddy-2api-go/</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://echoping07.github.io/projects/buddy-2api-go/</guid>
+      <description>用 Go 实现的 CodeBuddy / WorkBuddy 转 OpenAI 兼容代理网关，单账号、单二进制、内置 Web 管理面板，支持流式透传、官方余额查询与每日自动签到。</description>
+    </item>
+    <item>
+      <title>image-mcp-hub：一个服务，让所有 Agent 共用文生图能力</title>
+      <link>https://echoping07.github.io/projects/image-mcp-hub/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://echoping07.github.io/projects/image-mcp-hub/</guid>
+      <description>基于 Go 的 HTTP 中间层服务，把任意 OpenAI 兼容的文生图接口封装成 MCP 工具，供多个 Agent 通过 streamable HTTP 共用。</description>
+    </item>
+    <item>
+      <title>Qoder-2API-Go：把 Qoder 的 AI 服务桥接成 OpenAI 兼容 API</title>
+      <link>https://echoping07.github.io/projects/qoder-2api-go/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://echoping07.github.io/projects/qoder-2api-go/</guid>
+      <description>Qoder2API 的 Go 实现，将 Qoder 的 AI 服务完整重写为 OpenAI 兼容 API，单文件部署、支持流式输出与多模态。</description>
+    </item>
+    <item>
+      <title>Tiku-cfw：基于 Cloudflare Worker 的 AI 题库服务</title>
+      <link>https://echoping07.github.io/projects/tiku-cfw/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://echoping07.github.io/projects/tiku-cfw/</guid>
+      <description>部署在 Cloudflare Workers 上的 AI 题库，兼容 OCS 网课助手规范，智能缓存避免重复消耗 Token，零成本运行。</description>
+    </item>
+    <item>
+      <title>kgcheckin：酷狗概念版 VIP 每日自动签到</title>
+      <link>https://echoping07.github.io/projects/kgcheckin/</link>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://echoping07.github.io/projects/kgcheckin/</guid>
+      <description>基于青龙面板的酷狗概念版 VIP 自动签到工具，支持多账号、Token 自动续期、日志脱敏和通知推送。</description>
+    </item>
+    <item>
+      <title>Esurfing-go-webui：带 Web 管理界面的天翼校园网认证客户端</title>
+      <link>https://echoping07.github.io/projects/esurfing-go-webui/</link>
+      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://echoping07.github.io/projects/esurfing-go-webui/</guid>
+      <description>基于 Esurfing-go 的增强版本，支持多网卡管理、实时日志、会话恢复，单二进制零依赖部署。</description>
+    </item>
+    <item>
+      <title>DownOnly：用无害下载流量平衡你的宽带上下行</title>
+      <link>https://echoping07.github.io/projects/downonly/</link>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://echoping07.github.io/projects/downonly/</guid>
+      <description>一款专为增加下行流量设计的轻量级工具，零磁盘写入、低内存占用，帮你规避运营商的 PCDN 误判。</description>
+    </item>
+  </channel>
+</rss>

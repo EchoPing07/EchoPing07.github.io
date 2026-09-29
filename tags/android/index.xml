@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Android on EchoPing&#39;s Blog</title>
+    <link>https://echoping07.github.io/tags/android/</link>
+    <description>Recent content in Android on EchoPing&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://echoping07.github.io/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>全新的大粪就要来了</title>
+      <link>https://echoping07.github.io/essays/2026-08-30/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://echoping07.github.io/essays/2026-08-30/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/EchoPing07/Better-Esurfing-For-Android&#34;&gt;EchoPing07/Better-Esurfing-For-Android&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;目前还是私有仓库，等我回学校测试没问题就开源。&lt;/p&gt;
+&lt;p&gt;我忍广东校园那个狗屎app很久了，难用死了，自己上手花了一个星期这样做了一个自己比较满意的。&lt;/p&gt;
+&lt;p&gt;目前就差登录算法得回学校后才能测试，目前是和 &lt;a href=&#34;https://github.com/EchoPing07/Esurfing-go-webui&#34;&gt;EchoPing07/Esurfing-go-webui&lt;/a&gt; 认证算法一致，但是有几个人和我反馈似乎认证算法更新了，我得回去才能修&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

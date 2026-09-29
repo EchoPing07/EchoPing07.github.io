@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>随笔 on EchoPing&#39;s Blog</title>
+    <link>https://echoping07.github.io/essays/</link>
+    <description>Recent content in 随笔 on EchoPing&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 29 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://echoping07.github.io/essays/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>烦死人了</title>
+      <link>https://echoping07.github.io/essays/2026-09-29/</link>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://echoping07.github.io/essays/2026-09-29/</guid>
+      <description>&lt;p&gt;十月对我好一点吧，九月一堆破事&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;给人办卡没搞清楚，二十几张卡的钱全拿不到&lt;/li&gt;
+&lt;li&gt;傻鸟校园网，说他草台班子都是夸它了，我都不知道从哪里开始吐槽&lt;/li&gt;
+&lt;li&gt;校园网换系统了，暑假期间居然没有测试，一直用不了，修到中秋放假都还没有弄好，害我用来一个月的流量，用电脑体验堪比吃屎&lt;/li&gt;
+&lt;li&gt;校园网换系统，我的全新大粪还没用过就难产了（回校是校园网的 WiFi 已经用不了了，宽带是后面新生开学前一天晚上才换新系统的&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;总结：当初没有好好学习，来了这么一所破学校&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>杂鱼暑假</title>
+      <link>https://echoping07.github.io/essays/2026-08-31/</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://echoping07.github.io/essays/2026-08-31/</guid>
+      <description>&lt;p&gt;杂鱼暑假又短又没用，这么点长度根本满足不了人家嘛&lt;/p&gt;
+&lt;p&gt;你就这么想看到我被长长的学期给凌辱到神志不清，眼睛转圈圈，只会呜呜咽咽的样子，然后自己一个人躲在角落偷偷兴奋&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>全新的大粪就要来了</title>
+      <link>https://echoping07.github.io/essays/2026-08-30/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://echoping07.github.io/essays/2026-08-30/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/EchoPing07/Better-Esurfing-For-Android&#34;&gt;EchoPing07/Better-Esurfing-For-Android&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;目前还是私有仓库，等我回学校测试没问题就开源。&lt;/p&gt;
+&lt;p&gt;我忍广东校园那个狗屎app很久了，难用死了，自己上手花了一个星期这样做了一个自己比较满意的。&lt;/p&gt;
+&lt;p&gt;目前就差登录算法得回学校后才能测试，目前是和 &lt;a href=&#34;https://github.com/EchoPing07/Esurfing-go-webui&#34;&gt;EchoPing07/Esurfing-go-webui&lt;/a&gt; 认证算法一致，但是有几个人和我反馈似乎认证算法更新了，我得回去才能修&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>有 Token 时没想法，有想法时没 Token</title>
+      <link>https://echoping07.github.io/essays/2026-08-25/</link>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://echoping07.github.io/essays/2026-08-25/</guid>
+      <description>&lt;p&gt;感觉每次有高级模型的 tokens 时，自己没想法；有想法时，高级模型的 token 又不多&lt;/p&gt;
+&lt;p&gt;周末 ZCode 给新用户送了一亿 GLM-5.3 的限时额度，结果我周三、周四、周五疯狂开发 &lt;a href=&#34;https://github.com/EchoPing07/Buddy-2API-Go&#34;&gt;Buddy-2API-Go&lt;/a&gt;，感觉把想法都花完了，周末一点想法都没有。这一亿几乎都浪费了&lt;/p&gt;
+&lt;p&gt;结果周一我突然又有想法，需要很多 token，只能去用 GLM-5.2 了，呜呜呜&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

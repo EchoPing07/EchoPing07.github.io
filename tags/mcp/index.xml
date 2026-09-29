@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MCP on EchoPing&#39;s Blog</title>
+    <link>https://echoping07.github.io/tags/mcp/</link>
+    <description>Recent content in MCP on EchoPing&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 03 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://echoping07.github.io/tags/mcp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>image-mcp-hub：一个服务，让所有 Agent 共用文生图能力</title>
+      <link>https://echoping07.github.io/projects/image-mcp-hub/</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://echoping07.github.io/projects/image-mcp-hub/</guid>
+      <description>基于 Go 的 HTTP 中间层服务，把任意 OpenAI 兼容的文生图接口封装成 MCP 工具，供多个 Agent 通过 streamable HTTP 共用。</description>
+    </item>
+  </channel>
+</rss>
